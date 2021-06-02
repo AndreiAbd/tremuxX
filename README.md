@@ -1,7 +1,8 @@
-**█░░ █▀█ █▀▀ ▄▀█ █░░   █▀ █▀▀ ▄▀█ █▄░█ █▄░█ █▀▀ █▀█**<br>
-**█▄▄ █▄█ █▄▄ █▀█ █▄▄   ▄█ █▄▄ █▀█ █░▀█ █░▀█ ██▄ █▀▄**<br>
+** ▀▀█▀▀ █▀▀ █▀▀█ █▀▄▀█ █░░█ █░█ ░░ █░█**<br>
+** ░▒█░░ █▀▀ █▄▄▀ █░▀░█ █░░█ ▄▀▄ ▀▀ ▄▀▄**<br> 
+** ░▒█░░ ▀▀▀ ▀░▀▀ ▀░░░▀ ░▀▀▀ ▀░▀ ░░ ▀░▀**<br>
 ## Introduction:
-Local Scanner: simple bash script,Can give auto and full update and upgrade termux shell with simple run.<br>
+Termux-x: simple bash script,Can give auto and full update and upgrade termux shell with simple run.<br>
 ## Usage:
 > -Run:
 > $ chmod LocalScanner.sh
