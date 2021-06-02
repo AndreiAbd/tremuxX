@@ -1,6 +1,6 @@
-** ▀▀█▀▀ █▀▀ █▀▀█ █▀▄▀█ █░░█ █░█ ░░ █░█**<br>
-** ░▒█░░ █▀▀ █▄▄▀ █░▀░█ █░░█ ▄▀▄ ▀▀ ▄▀▄**<br> 
-** ░▒█░░ ▀▀▀ ▀░▀▀ ▀░░░▀ ░▀▀▀ ▀░▀ ░░ ▀░▀**<br>
+**▀▀█▀▀ █▀▀ █▀▀█ █▀▄▀█ █░░█ █░█ ░░ █░█**<br>
+**░▒█░░ █▀▀ █▄▄▀ █░▀░█ █░░█ ▄▀▄ ▀▀ ▄▀▄**<br> 
+**░▒█░░ ▀▀▀ ▀░▀▀ ▀░░░▀ ░▀▀▀ ▀░▀ ░░ ▀░▀**<br>
 ## Introduction:
 Termux-x: simple bash script, Give auto and full update and upgrade termux shell with simple run.<br>
 ## Usage:
